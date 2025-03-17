@@ -7,7 +7,6 @@
 #    https://shiny.posit.co/
 #
 
-
 library(httr)
 library(jsonlite)
 library(ggplot2)
