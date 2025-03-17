@@ -10,7 +10,7 @@ Welcome to the NHL API App. This app is built to help fantasy hockey players div
 
 ## Installation instructions
 
-Simply open the app.R file in the src folder using R Studio, and click the run app button on the top right to run the app. 
+Simply open the app.R file in the src folder using R Studio, and click the run app button on the top right to run the app. If you have any issues with missing libraries or packages, on the R Studio console run the code 'install.packages("renv")'. This will make sure that renv is installed on your R studio. After the installation is complete, input in the console 'renv::restore()'. This will import the renv file that is in the src folder. After this all necessary libraries should be installed on your machine and you should be able to access the app. At this stage clicking the run app button on the top right of R Studio should open the app for you. 
 
 ## Video Walkthrough
 
